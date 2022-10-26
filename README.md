@@ -42,5 +42,11 @@ Abaixo estão informações mais detalhadas sobre os projetos desenvolvidos até
 - Virtual Enviroments 
 - Python API's
 
+# Projetos de Data Science e Data Analytics
 
+### [Projeto de Insights - House Rocket](https://github.com/MMC1101/projeto_house_rocket)
+
+Esse projeto busca solucionar um problema de negócio de uma empresa fictícia do setor 
+imobiliário chamada House Rocket. O objetivo é encontrar as melhores oportunidades para compra de imóveis no melhor custo benefício, ou seja compra o imóvel nas melhores condições de estrutura pelo menor preço, e depois vendê-los com preço acima da média de mercado.
+Análise de dados é feita para encontrar quais são os principais que tornam um imóvel atrativo ou menos atrativo na procura do imóvel e quais atributos que impactam o preço dos imóveis. A entrega final foi a geração de um arquivo contendo os imóveis que poderiam serem comprados e imóveis que deveriam serem vendidos , e um Dashboard WEB interativo permitindo ajudar o CEO e o time de negócios no monitoramento dos preços dos imóveis de acordo com as caracteristica do imóvel. 
 
